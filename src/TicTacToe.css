@@ -1,0 +1,30 @@
+.container {
+    margin-top: 10%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+table td {
+	border: 1px solid grey;
+	width: 100px;
+	height: 100px;
+    background-color: gray;
+
+}
+td{
+    font-size:xx-large;
+}
+Turn,p{
+    padding: 5px;
+    font-size: xx-large;
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: gray;
+    border: none;
+
+
+}
